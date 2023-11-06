@@ -2,7 +2,6 @@
 import time
 
 # Page Title/Heading
-
 print("L I F E 100 // to infinity and beyond.")
 
 # Subheading
